@@ -135,7 +135,7 @@ ul.list-left li {
     text-decoration: none;
 }
 .header{
-    background: url(../images/pic2.jpg) no-repeat center;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(../images/girne.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
